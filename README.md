@@ -1,0 +1,2 @@
+# telusko
+telusko training
